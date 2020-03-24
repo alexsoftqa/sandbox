@@ -1,3 +1,4 @@
+package alexsoftqa.sandbox;
 
 public class MyFirstProgram {
 
